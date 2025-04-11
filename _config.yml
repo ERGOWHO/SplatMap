@@ -18,10 +18,12 @@ affiliations:
   - name: University of Southern California  
     url: "https://ict.usc.edu/research/labs-groups/geospatial-terrain-research/"
   - name: Institute for Creative Technologies  
-    url: "https://ict.usc.edu/research/labs-groups/geospatial-terrain-research/"
+    url: "https://ict.usc.edu/"
+affiliations:
   - name: Geospatial Terrain Research Lab  
     url: "https://ict.usc.edu/research/labs-groups/geospatial-terrain-research/"
-
+  - name: "Energy Efficient Secure Sustainable Computing Group"
+    url: "https://sites.usc.edu/eessc/"
 links:
   - name: "arXiv"
     url: "https://arxiv.org/abs/2501.07015"
