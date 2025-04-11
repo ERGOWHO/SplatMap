@@ -65,22 +65,11 @@ a:hover {
   color: var(--accent-color);
 }
 
-.affiliations {
-  text-align: center;
-  margin: 15px 0;
-  line-height: 1.6;
-}
-
 .affiliations a {
-  margin: 0 8px;
+  display: block;   /* 每个链接占一整行 */
+  margin: 5px auto; /* 垂直间距，居中显示 */
   color: var(--accent-color);
-  text-decoration: none;
 }
-
-.affiliations a:hover {
-  text-decoration: underline;
-}
-
 
 
 /* Teaser Section */
