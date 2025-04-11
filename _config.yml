@@ -15,7 +15,10 @@ authors:
     url: "https://ict.usc.edu/about-us/leadership/research-leadership/andrew-feng/"
 
 affiliations:
-  - name: University of Southern California Institute for Creative Technologies
+  - name: University of Southern California 
+    url: "https://ict.usc.edu/research/labs-groups/geospatial-terrain-research/"
+  - name: Institute for Creative Technologies
+    url: "https://ict.usc.edu/research/labs-groups/geospatial-terrain-research/"
   - name: Geospatial Terrain Research Lab
     url: "https://ict.usc.edu/research/labs-groups/geospatial-terrain-research/"
 
