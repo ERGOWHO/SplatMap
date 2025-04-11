@@ -65,10 +65,10 @@ a:hover {
   color: var(--accent-color);
 }
 
-.authors a,
-.affiliations a,
-.links a {
-  margin: 0 10px;
+.affiliations a {
+  display: block;   /* 每个链接占一整行 */
+  margin: 5px auto; /* 垂直间距，居中显示 */
+  color: var(--accent-color);
 }
 
 
