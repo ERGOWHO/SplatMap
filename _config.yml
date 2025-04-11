@@ -4,21 +4,20 @@ title: "SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting"
 
 authors:
   - name: "Yue Hu"
-    url: ""
+    url: "https://ergowho.github.io/"
   - name: "Rong Liu"
-    url: ""
+    url: "https://rongliu-leo.github.io/"
   - name: "Meida Chen"
-    url: ""
+    url: "https://viterbi.usc.edu/directory/faculty/Chen/Meida"
   - name: "Peter Beerel"
-    url: ""
+    url: "https://viterbi.usc.edu/directory/faculty/Beerel/Peter"
   - name: "Andrew Feng"
-    url: ""
+    url: "https://ict.usc.edu/about-us/leadership/research-leadership/andrew-feng/"
 
 affiliations:
-  - name: Affiliation1
-    url: ""
-  - name: Affiliation2
-    url: ""
+  - name: University of Southern California Institute for Creative Technologies
+  - name: Geospatial Terrain Research Lab
+    url: "https://ict.usc.edu/research/labs-groups/geospatial-terrain-research/"
 
 links:
   - name: "arXiv"
