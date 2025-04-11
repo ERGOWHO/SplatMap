@@ -14,13 +14,13 @@ authors:
   - name: "Andrew Feng"
     url: "https://ict.usc.edu/about-us/leadership/research-leadership/andrew-feng/"
 
-affiliations:
-  - name: University of Southern California 
-    url: "https://ict.usc.edu/research/labs-groups/geospatial-terrain-research/"
-  - name: Institute for Creative Technologies
-    url: "https://ict.usc.edu/research/labs-groups/geospatial-terrain-research/"
-  - name: Geospatial Terrain Research Lab
-    url: "https://ict.usc.edu/research/labs-groups/geospatial-terrain-research/"
+affiliations: 
+<div>
+  Uty of Southern California<br>
+  <a href="https://ict.usc.edu/research/labs-groups/geospatial-terrain-research/">Institute for Creative Technologies</a><br>
+  <a href="https://ict.usc.edu/research/labs-groups/geospatial-terrain-research/">Geospatial Terrain Research Lab</a>
+</div>
+
 
 links:
   - name: "arXiv"
